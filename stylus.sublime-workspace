@@ -1,0 +1,569 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"p",
+				"p	padding"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ca",
+				"caption	Tag"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"scro",
+				"scroll_pos"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"d",
+				"dotted"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"re",
+				"repeat-y"
+			],
+			[
+				"c",
+				"content-box"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bacgr",
+				"background-position"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"argin",
+				"margin-bottom"
+			],
+			[
+				"i",
+				"i	Tag"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"te",
+				"textarea	Tag"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"ipo",
+				"important"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"head",
+				"head	Tag"
+			],
+			[
+				"a",
+				"auto"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/stylus-persian"
+	],
+	"file_history":
+	[
+		"/E/AtiTel/css/slider.css",
+		"/E/esmam/app.js",
+		"/E/AtiTel/index2.html",
+		"/E/AtiTel/css/reset.css",
+		"/E/AtiTel/index.html",
+		"/E/AtiTel/css/style.css",
+		"/E/AtiTel/732259.txt",
+		"/C/Users/Kamyar Rad/Desktop/AtiTel/index.html",
+		"/C/Users/Kamyar Rad/.ssh/github_rsa.pub",
+		"/E/AtiTel/css/csc.css",
+		"/C/Users/Kamyar Rad/AppData/Local/Temp/Rar$DIa0.293/fontiran.css",
+		"/C/Users/Kamyar Rad/AppData/Local/Temp/Rar$DIa0.787/component.css",
+		"/C/Users/Kamyar Rad/AppData/Local/Temp/Rar$DIa0.133/demo.css",
+		"/E/AtiTel/images/home_feature2.png",
+		"/C/wamp/www/ayandeh/ayande-portal/faq.html",
+		"/C/Users/Kamyar Rad/Desktop/css/foundation.css",
+		"/C/Users/Kamyar Rad/Desktop/index.html",
+		"/C/Users/Kamyar Rad/Desktop/css/foundation.min.css",
+		"/C/Users/Kamyar Rad/Desktop/css/app.css",
+		"/C/wamp/www/ayandeh/ayande-portal/style/main.css",
+		"/E/ab--pishkhan/پیشخوان مجازی بانک آینده_files/kamyar.css",
+		"/E/ab--pishkhan/پیشخوان مجازی بانک آینده.htm",
+		"/E/ab--pishkhan/پیشخوان مجازی بانک آینده_files/kamyar.style",
+		"/H/Jobbee/index.html",
+		"/H/Jobbee/css/style.css",
+		"/H/Jobbee/js",
+		"/C/wamp/www/phpproject/contact.php",
+		"/C/wamp/www/phpproject/shirts.php",
+		"/C/wamp/www/phpproject/index.php",
+		"/C/wamp/www/phpproject/inc/header.php",
+		"/C/wamp/www/phpproject/tshirt.php",
+		"/C/wamp/www/phpproject/inc/footer.php",
+		"/C/wamp/www/php project/index.php",
+		"/C/Users/Kamyar Rad/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/C/wamp/www/amiafeminist/index.html",
+		"/C/wamp/www/amiafeminist/style.css",
+		"/C/wamp/www/amiafeminist/congrats.html",
+		"/C/Users/Kamyar Rad/Downloads/signs.svg",
+		"/C/wamp/www/amiafeminist/question2.html",
+		"/C/wamp/www/amiafeminist/question1.html",
+		"/C/wamp/www/ayandeh/ayande-portal/ircard.html",
+		"/C/wamp/www/ayandeh/ayande-portal/pishkhan.html",
+		"/C/wamp/www/ayandeh/ayande-portal/target.html",
+		"/C/wamp/www/ayandeh/ayande-portal/index.html",
+		"/C/wamp/www/ayandeh/ayande-portal/style/landing.css",
+		"/C/wamp/www/ayandeh/ayande-portal/faq-pishkhan.html",
+		"/C/wamp/www/ayandeh/ayande-portal/style/slider.css",
+		"/C/wamp/www/ayandeh/ayande-portal/hamrah-card.html",
+		"/C/wamp/www/ayandeh/ayande-portal/faq-target.html",
+		"/C/wamp/www/ayandeh/ayande-portal/style/buttons.css",
+		"/C/wamp/www/ayandeh/ayande-portal/faq-hamrah.html",
+		"/C/Users/Kamyar Rad/AppData/Local/Temp/Rar$DIa0.943/flattyshadow.css",
+		"/C/Users/Kamyar Rad/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/wamp/www/wordpress/wp-content/themes/flat-shop-lite/index.php",
+		"/C/wamp/www/wordpress/wp-content/themes/flat-shop-lite/style.css",
+		"/C/wamp/www/wordpress/wp-content/themes/flat-shop-lite/single.php",
+		"/C/wamp/www/wordpress/wp-content/themes/flat-shop-lite/footer.php",
+		"/C/wamp/www/wordpress/wp-content/themes/flat-shop-lite/header.php",
+		"/C/wamp/www/ayandeh/ayande-portal/js/main.js",
+		"/C/wamp/www/wordpress/wp-content/themes/flat-shop-lite/functions.php",
+		"/C/wamp/www/wordpress/wp-content/themes/flat-shop-lite/woocommerce.php",
+		"/C/wamp/www/wordpress/wp-content/themes/flat-shop-lite/page.php",
+		"/C/wamp/www/wordpress/wp-content/themes/twentyfifteen/sidebar.php",
+		"/C/wamp/www/wordpress/wp-content/themes/twentyfifteen/header.php",
+		"/C/wamp/www/wordpress/wp-content/themes/twentyfifteen/functions.php",
+		"/H/desktop/ITMenNews/parts/nav-offcanvas.php",
+		"/H/desktop/ITMenNews/header.php",
+		"/C/wamp/www/wordpress/wp-content/themes/EmiTis/index.php",
+		"/C/wamp/www/ayandeh/ayande-portal/style/faq.css",
+		"/C/Users/Kamyar Rad/Desktop/fullPage.js-master/examples/responsiveHeight.html",
+		"/C/Users/Kamyar Rad/Desktop/fullPage.js-master/examples/examples.css",
+		"/E/Labs/Fullheight/style.css",
+		"/E/Labs/Fullheight/index.html",
+		"/C/Users/Kamyar Rad/Desktop/fullPage.js-master/pure javascript (Alpha)/javascript.fullPage.css",
+		"/C/Users/Kamyar Rad/Desktop/fullPage.js-master/jquery.fullPage.css",
+		"/C/Users/Kamyar Rad/Desktop/fullPage.js-master/dist/jquery.fullpage.css",
+		"/C/Users/Kamyar Rad/Desktop/ayandehsidebar/chequeStatus.phtml",
+		"/J/ayandehsidebar/chequeStatus.phtml",
+		"/C/Users/Kamyar Rad/Dropbox/ayandeh/hamrah-card.html",
+		"/H/ayandeh/style/landing.css",
+		"/H/ayandeh/faq-target.html",
+		"/H/ayandeh/faq-pishkhan.html",
+		"/H/ayandeh/faq-hamrah.html",
+		"/H/ayandeh/faq-iranian.html",
+		"/H/ayandeh/target.html",
+		"/H/ayandeh/pishkhan.html",
+		"/H/ayandeh/ircard.html",
+		"/H/ayandeh/hamrah-card.html",
+		"/H/ayandeh/index.html",
+		"/H/ayandeh/faq.html",
+		"/C/Users/Kamyar Rad/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/Ayandeh/landing/app/index.html",
+		"/C/wamp/www/wordpress/wp-content/themes/EmiTis/header.php",
+		"/C/wamp/www/wordpress/wp-content/themes/EmiTis/style.css",
+		"/C/wamp/www/wordpress/wp-content/themes/EmiTis/functions.php",
+		"/C/Users/Kamyar Rad/Desktop/ITMenNews/index.php",
+		"/C/Users/Kamyar Rad/Desktop/ITMenNews/parts/loop-single.php",
+		"/C/Users/Kamyar Rad/Desktop/ITMenNews/parts/content-byline.php",
+		"/C/Users/Kamyar Rad/Desktop/ITMenNews/parts/nav-title-bar.php",
+		"/C/Users/Kamyar Rad/Desktop/ITMenNews/parts/nav-offcanvas.php",
+		"/C/Users/Kamyar Rad/Desktop/ITMenNews/header.php",
+		"/C/Users/Kamyar Rad/Desktop/ITMenNews/functions.php"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"پروژه ها",
+			"راهکار",
+			"logo\"",
+			"logo",
+			";\n",
+			"توسعه دهنده وب",
+			"section",
+			"ul",
+			"visible",
+			"div",
+			"section",
+			"v3",
+			"img",
+			"contact",
+			"subtitle",
+			"contact-items",
+			"p-re",
+			"middle",
+			"button-pasific",
+			"e94e77",
+			"fe4365",
+			"FFBC42",
+			"EE7785",
+			"A593E0",
+			"ef5285",
+			"E53A40",
+			"D81159",
+			"small",
+			"inner-content ul",
+			".navbar-nav > li > a",
+			".navigation-wrap ul",
+			".nav > li > a",
+			"header-wrapper",
+			"navbar-default",
+			".section-content .link-wrapper",
+			"left-content",
+			"content",
+			"left-content",
+			"content left-content",
+			"right-content",
+			"faq-left-wrap",
+			";\n",
+			"33a9d9",
+			"background:#33a9d9;",
+			"background:#edc41c;",
+			"33a9d9",
+			"slider",
+			"card",
+			"footer",
+			"link",
+			"icon",
+			"read-more",
+			"link-back",
+			"fullpage",
+			"link why",
+			"#pishkhan-box.section-content .link",
+			"	\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"توسعه دهنده",
+			"images",
+			"rgb(232, 66, 74) ",
+			"e85a71",
+			"e94e77",
+			"FFBC42",
+			"EE7785",
+			"fe4365",
+			"A593E0",
+			"ef5285"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "stylus.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>استایلس</title>
+	<meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="Kamyar Rad">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <!--[if lt IE 9]>
+      <div class="browsehappy">
+        <p>
+          You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" target="_blank">upgrade your browser</a> to improve your experience.
+        </p>
+      </div>
+    <![endif]-->
+    <div class="wrap">
+        <aside class="sidebar">
+            <nav>
+                <a href="//stylus-lang.com/try.html">
+                    Try Stylus Online!
+                </a>
+
+                
+                <a href="//stylus-lang.com/docs/selectors.html">
+                    Selectors
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/variables.html">
+                    Variables
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/interpolation.html">
+                    Interpolation
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/operators.html">
+                    Operators
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/mixins.html">
+                    Mixins
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/functions.html">
+                    Functions
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/kwargs.html">
+                    Keyword Arguments
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/bifs.html">
+                    Built-in Functions
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/vargs.html">
+                    Rest Params
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/comments.html">
+                    Comments
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/conditionals.html">
+                    Conditionals
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/hashes.html">
+                    Hashes
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/iteration.html">
+                    Iteration
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/import.html">
+                    @import and @require
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/media.html">
+                    @media
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/font-face.html">
+                    @font-face
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/keyframes.html">
+                    @keyframes
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/atrules.html">
+                    Other @-rules
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/extend.html">
+                    @extend
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/block.html">
+                    @block
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/functions.url.html">
+                    url()
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/literal.html">
+                    CSS Literal
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/css-style.html">
+                    CSS Style Syntax
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/escape.html">
+                    Char Escaping
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/executable.html">
+                    Executable
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/error-reporting.html">
+                    Error Reporting
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/middleware.html">
+                    Connect Middleware
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/introspection.html">
+                    Introspection API
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/js.html">
+                    JavaScript API
+                </a>
+                                
+                <a href="//stylus-lang.com/docs/sourcemaps.html">
+                    Sourcemaps
+                </a>
+                                
+                <a href="http://tj.github.io/nib/">CSS3 Extensions with Nib</a>
+            </nav>
+
+            <p>Created by <a href="http://github.com/tj">TJ Holowaychuk</a>, originated at:</p>
+            <a href="https://learnboost.com">
+                <img class="credit" src="//stylus-lang.com/img/learnboost.png" alt="LearnBoost" title="Creators of Stylus">
+            </a>
+
+            <p>Supported by:</p>
+            <a href="http://automattic.com">
+                <img class="credit" src="//stylus-lang.com/img/automattic.svg" alt="Automattic" title="Supporting organization">
+            </a>
+            <a href="http://launchboxhq.com">
+                <img class="credit" src="//stylus-lang.com/img/launchbox.svg" alt="LaunchBox" title="Web-design and hosting">
+            </a>
+            <a href="https://mojotech.com">
+                <img class="credit" src="//stylus-lang.com/img/mojotech.png" alt="MojoTech" title="Design">
+            </a>
+
+        </aside>
+
+        <main class="content">
+            <header class="logo">
+                <a><img src="images/stylus-logo.svg" alt="Stylus" /></a>
+            </header>
+
+            <div class="docs">
+                <h1>Expressive, dynamic, robust CSS</h1>
+                
+
+<h2 id="css-needs-a-hero"><a class="permalink" title="Link to this place" href="#css-needs-a-hero"></a>CSS needs a hero</h2>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>body {
+  font: 12px Helvetica, Arial, sans-serif;
+}
+a.button {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+</code></pre>
+</div>
+
+<h3 id="what-if-we-could-omit-braces"><a class="permalink" title="Link to this place" href="#what-if-we-could-omit-braces"></a>What if we could omit braces?</h3>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>body
+  font: 12px Helvetica, Arial, sans-serif;
+
+a.button
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+</code></pre>
+</div>
+
+<h3 id="how-about-semi-colons"><a class="permalink" title="Link to this place" href="#how-about-semi-colons"></a>How about semi-colons?</h3>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>body
+  font: 12px Helvetica, Arial, sans-serif
+
+a.button
+  -webkit-border-radius: 5px
+  -moz-border-radius: 5px
+  border-radius: 5px
+</code></pre>
+</div>
+
+<h3 id="keep-things-dry"><a class="permalink" title="Link to this place" href="#keep-things-dry"></a>Keep things DRY</h3>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>border-radius()
+  -webkit-border-radius: arguments
+  -moz-border-radius: arguments
+  border-radius: arguments
+
+body
+  font: 12px Helvetica, Arial, sans-serif
+
+a.button
+  border-radius(5px)
+</code></pre>
+</div>
+
+<h3 id="how-about-transparent-mixins"><a class="permalink" title="Link to this place" href="#how-about-transparent-mixins"></a>How about transparent mixins?</h3>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>border-radius()
+  -webkit-border-radius: arguments
+  -moz-border-radius: arguments
+  border-radius: arguments
+
+body
+  font: 12px Helvetica, Arial, sans-serif
+
+a.button
+  border-radius: 5px
+</code></pre>
+</div>
+
+<h3 id="create--share"><a class="permalink" title="Link to this place" href="#create--share"></a>Create &amp; Share</h3>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>@import 'vendor'
+
+body
+  font: 12px Helvetica, Arial, sans-serif
+
+a.button
+  border-radius: 5px
+</code></pre>
+</div>
+
+<h3 id="even-in-language-functions"><a class="permalink" title="Link to this place" href="#even-in-language-functions"></a>Even in-language functions!</h3>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>sum(nums...)
+  sum = 0
+  sum += n for n in nums
+
+sum(1 2 3 4)
+// =&gt; 10
+</code></pre>
+</div>
+
+<h3 id="what-if-it-were-all-optional"><a class="permalink" title="Link to this place" href="#what-if-it-were-all-optional"></a>What if it were all optional?</h3>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>fonts = helvetica, arial, sans-serif
+
+body {
+  padding: 50px;
+  font: 14px/1.4 fonts;
+}
+</code></pre>
+</div>
+
+<h3 id="get-styling-with-stylus"><a class="permalink" title="Link to this place" href="#get-styling-with-stylus"></a>Get styling with Stylus</h3>
+
+<p>Installing Stylus is very easy once you have <a href="http://nodejs.org/">Node.js</a>.
+So get the binaries for your platform and make sure that they also include npm, Node’s package manager.</p>
+
+<p>Now, type in your terminal:</p>
+
+<div class="terminal highlighter-rouge"><pre class="highlight"><code>$ npm install stylus -g
+</code></pre>
+</div>
+
+<p>If you want an expressive css language for nodejs with these
+features or the features listed below, head over to 
+<a href="http://github.com/stylus/stylus">GitHub</a>
+for more information.</p>
+
+<h3 id="features"><a class="permalink" title="Link to this place" href="#features"></a>Features</h3>
+
+<ul>
+  <li>Optional colons</li>
+  <li>Optional semi-colons</li>
+  <li>Optional commas</li>
+  <li>Optional braces</li>
+  <li>Variables</li>
+  <li>Interpolation</li>
+  <li>Mixins</li>
+  <li>Arithmetic</li>
+  <li>Type coercion</li>
+  <li>Dynamic importing</li>
+  <li>Conditionals</li>
+  <li>Iteration</li>
+  <li>Nested selectors</li>
+  <li>Parent referencing</li>
+  <li>Variable function calls</li>
+  <li>Lexical scoping</li>
+  <li>Built-in functions (over 60)</li>
+  <li>In-language functions</li>
+  <li>Optional compression</li>
+  <li>Optional image inlining</li>
+  <li>Stylus executable</li>
+  <li>Robust error reporting</li>
+  <li>Single-line and multi-line comments</li>
+  <li>CSS literal for those tricky times</li>
+  <li>Character escaping</li>
+  <li>TextMate bundle</li>
+  <li>and more!</li>
+</ul>
+
+
+                
+
+            </div>
+
+            <a href="https://github.com/stylus/stylus/" class="meow">
+                <img src="images/octocat.svg" alt="Stylus on GitHub" />
+            </a>
+        </main>
+    </div>
+
+    <!--[if lt IE 9]>
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+      <script>window.jQuery || document.write('<script src="//stylus-lang.com/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+    <![endif]-->
+    <!--[if gt IE 8]><!-->
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <!--<![endif]-->
+
+
+</body>
+</html>

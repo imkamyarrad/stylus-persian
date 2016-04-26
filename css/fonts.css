@@ -1,0 +1,42 @@
+@font-face {
+	font-family: IRANSans;
+	font-style: normal;
+	font-weight: bold;
+	src: url('../css/fonts/eot/IRANSansWeb(FaNum)_Bold.eot');
+	src: url('../css/fonts/eot/IRANSansWeb(FaNum)_Bold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('../css/fonts/woff2/IRANSansWeb(FaNum)_Bold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../css/fonts/woff/IRANSansWeb(FaNum)_Bold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('../css/fonts/ttf/IRANSansWeb(FaNum)_Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Yekan';
+
+	src: url('../css/fonts/Yekan.eot?#') format('eot'),  /* IE6�8 */
+	url('../css/fonts/Yekan.woff2') format('woff2'),  /* Chrome36+, Opera24+*/
+	url('../css/fonts/Yekan.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	font-weight: bold;
+}
+@font-face {
+	font-family: 'sans';
+
+	src: url('../css/fonts/sans-bold/IRANSans-Bold.eot?#') format('eot'),  /* IE6�8 */
+	url('../css/fonts/sans-bold/IRANSans-Bold.woff2') format('woff2'),  /* Chrome36+, Opera24+*/
+	url('../css/fonts/sans-bold/IRANSans-Bold.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: 'sans-light';
+	src: url('../css/fonts/sans-light/IRANSans.eot?#') format('eot'),  /* IE6�8 */
+	url('../css/fonts/sans-light/IRANSans.woff2') format('woff2'),  /* Chrome36+, Opera24+*/
+	url('../css/fonts/sans-light/IRANSans.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	font-weight: 200;
+}
+@font-face {
+	font-family: 'sans-ultra';
+	src: url('../css/fonts/sans-ultra-light/IRAN-Sans-Ultra-Light.eot?#') format('eot'),  /* IE6�8 */
+	url('../css/fonts/sans-ultra-light/IRAN-Sans-Ultra-Light.woff2') format('woff2'),  /* Chrome36+, Opera24+*/
+	url('../css/fonts/sans-ultra-light/IRAN-Sans-Ultra-Light.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+	font-weight: 200;
+}
